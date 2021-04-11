@@ -8,4 +8,4 @@ project(vEngine)
 set(CMAKE_CXX_STANDARD 11)
 
 # compile main.cpp as exe
-add_executable(vEngine Source/main.cpp)
+add_executable(vEngine source/main.cpp)
